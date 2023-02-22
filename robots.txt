@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://nithyananda.tv/sitemap.xml
-Host: https://nithyananda.tv
+Disallow: 
