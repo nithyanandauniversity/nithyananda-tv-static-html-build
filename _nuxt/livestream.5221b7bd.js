@@ -1,0 +1,1 @@
+import{E as t}from"./entry.645b31f3.js";const s=t("livestream",{state:()=>({checkedTime:0,isLive:!1,embedUrl:"",livestream:{liveTitle:"",liveDescription:""}}),getters:{getCheckedTime:e=>e.checkedTime,getLiveStatus:e=>e.isLive,getLivestreamDetails:e=>e.livestream},actions:{}});export{s as u};
